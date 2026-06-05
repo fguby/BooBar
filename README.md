@@ -16,6 +16,9 @@ BooBar is designed for a modern desktop where AI agents, browser workflows, file
 
 It is not a launcher and not a generic dashboard. It is a focused AI work companion for macOS.
 
+<img width="784" height="158" alt="1dab76f55500daacbf5e9f3e7ac1eefe" src="https://github.com/user-attachments/assets/fa0f8e18-484c-435a-9b5c-76d2f13139ac" />
+
+
 <img width="1240" height="556" alt="image" src="https://github.com/user-attachments/assets/e094f3ca-25d3-466d-8a8e-cd30272dc1cd" />
 
 
