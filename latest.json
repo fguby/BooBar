@@ -2,5 +2,5 @@
   "version": "1.0.2",
   "display_version": "v1.0.2",
   "download_url": "https://github.com/fguby/BooBar/raw/main/BooBar.dmg",
-  "notes": "Routes support links to the public BooBar repository and expands the bilingual product README."
+  "notes": "Rebuilt the installer as a signed and notarized Developer ID DMG for safer macOS distribution."
 }
