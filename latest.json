@@ -1,6 +1,6 @@
 {
-  "version": "1.0.2",
-  "display_version": "v1.0.2",
+  "version": "1.0.0",
+  "display_version": "v1.0.0",
   "download_url": "https://github.com/fguby/BooBar/raw/main/BooBar.dmg",
-  "notes": "Rebuilt the installer as a signed and notarized Developer ID DMG for safer macOS distribution."
+  "notes": "Reset the public installer version to 1.0.0 and rebuilt it as a signed, notarized Developer ID DMG."
 }
