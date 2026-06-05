@@ -153,7 +153,7 @@ BooBar checks this repository for updates:
 - `BooBar.dmg` is the latest installer.
 - GitHub Releases are also published for each public version.
 
-Current release: [v1.0.1](https://github.com/fguby/BooBar/releases/tag/v1.0.1)
+Current release: [v1.0.2](https://github.com/fguby/BooBar/releases/tag/v1.0.2)
 
 ### Support
 
@@ -306,7 +306,7 @@ BooBar 会从本仓库读取更新信息：
 - `BooBar.dmg`：最新安装包。
 - GitHub Releases：每个公开版本的发布记录。
 
-当前版本：[v1.0.1](https://github.com/fguby/BooBar/releases/tag/v1.0.1)
+当前版本：[v1.0.2](https://github.com/fguby/BooBar/releases/tag/v1.0.2)
 
 ### 支持
 
