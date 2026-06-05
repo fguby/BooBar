@@ -18,9 +18,15 @@ It is not a launcher and not a generic dashboard. It is a focused AI work compan
 
 <img width="784" height="158" alt="1dab76f55500daacbf5e9f3e7ac1eefe" src="https://github.com/user-attachments/assets/fa0f8e18-484c-435a-9b5c-76d2f13139ac" />
 
-
 <img width="1240" height="556" alt="image" src="https://github.com/user-attachments/assets/e094f3ca-25d3-466d-8a8e-cd30272dc1cd" />
 
+<img width="1368" height="602" alt="dfe1495481933b4606078322ac924469" src="https://github.com/user-attachments/assets/26068306-d523-483e-a826-ad7818b87219" />
+
+<img width="1240" height="860" alt="19a4570e1e518e2243a41c7962859c34" src="https://github.com/user-attachments/assets/e2459707-d58f-4f98-8fc8-05b854e6bea6" />
+
+<img width="1386" height="524" alt="7b08a6469a09a4539d7cb272ea499318" src="https://github.com/user-attachments/assets/7a780250-07c9-41db-8856-a6ac03b2af2b" />
+
+<img width="1436" height="488" alt="d6a99306be22465bc76fe959ddea229d" src="https://github.com/user-attachments/assets/a82af056-00d2-4777-9b5c-31502c64ab9b" />
 
 ## Highlights
 
