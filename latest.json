@@ -1,6 +1,6 @@
 {
-  "version": "1.0",
-  "display_version": "v1.0",
+  "version": "1.0.1",
+  "display_version": "v1.0.1",
   "download_url": "https://github.com/fguby/BooBar/raw/main/BooBar.dmg",
-  "notes": "Initial public BooBar build."
+  "notes": "Adds removable download rows, improves Claude Code file analysis, and makes in-app update checks use the public manifest first."
 }
