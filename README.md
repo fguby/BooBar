@@ -16,6 +16,9 @@ BooBar is designed for a modern desktop where AI agents, browser workflows, file
 
 It is not a launcher and not a generic dashboard. It is a focused AI work companion for macOS.
 
+<img width="1240" height="556" alt="image" src="https://github.com/user-attachments/assets/e094f3ca-25d3-466d-8a8e-cd30272dc1cd" />
+
+
 ## Highlights
 
 - **Native macOS Dynamic Island**
@@ -82,6 +85,9 @@ It is not a launcher and not a generic dashboard. It is a focused AI work compan
   - Supports automatic incremental sync for new bookmarks.
   - Uses the configured AI provider to deeply summarize bookmark pages.
   - Makes bookmarks searchable by keywords, summaries, and page meaning.
+ 
+<img width="1344" height="950" alt="image" src="https://github.com/user-attachments/assets/62ab9337-ba1b-410f-9a88-8774c6ad4afe" />
+
 
 - **Terminal Panel**
   - Idle expanded panel can show terminal statistics, GitHub activity, or focus and wellness cards.
