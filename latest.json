@@ -2,5 +2,8 @@
   "version": "1.0.0",
   "display_version": "v1.0.0",
   "download_url": "https://raw.githubusercontent.com/fguby/BooBar/main/BooBar.dmg",
+  "release_url": "https://github.com/fguby/BooBar/releases/download/v1.0.0/BooBar.dmg",
+  "sha256": "df2d70d692031b25b7dac84f8f41127a833c935550ddb9e3a5dd6a2e1a3bc114",
+  "size": 20841240,
   "notes": "Signed and notarized Developer ID build with embedded provisioning profile for WeatherKit and Maps."
 }
