@@ -3,8 +3,8 @@
   "display_version": "v1.0.0",
   "download_url": "https://raw.githubusercontent.com/fguby/BooBar/main/BooBar.dmg",
   "release_url": "https://github.com/fguby/BooBar/releases/download/v1.0.0/BooBar.dmg",
-  "sha256": "ba4d3bf736c02c42d877d5fd438751e80efcbc60f783b31f520dcf5acf021a50",
-  "size": 23139949,
+  "sha256": "40f409822b759636d068f3b053f451ab59f5cf613c8e53bbce79be2e91ba260c",
+  "size": 23163302,
   "notes": "BooBar 1.0.0 ships as a signed and notarized Developer ID build with embedded provisioning profile support, AI file sorting, Codex and Claude Code monitoring, Chrome enhancement, Web Pin, screenshot notes, smart sticky notes, reminders, and subscription pass support.",
   "release_notes": "BooBar 1.0.0 introduces the Dynamic Island task center, AI file sorting, Chrome enhancement, Web Pin monitoring, screenshot notes, smart sticky notes, terminal panels, break reminders, and subscription pass support."
 }
