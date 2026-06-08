@@ -1,72 +1,74 @@
 # BooBar
 
-BooBar 是一款为 macOS 打造的桌面效率助手。它把文件整理、任务提醒、网页变化、下载进度、邮件信息、编程活动和自然语言搜索集中到屏幕顶部的灵动岛里，让你不用频繁切换窗口，也能随时掌握正在发生的事情。
+BooBar is a macOS desktop productivity assistant that brings file organization, reminders, web change monitoring, download progress, mail highlights, coding activity, and natural-language search into a lightweight Dynamic Island at the top of your screen.
 
-## 下载
+[Download the latest release](https://github.com/fguby/BooBar/releases/latest) · [Chinese README](README.zh-CN.md)
 
-最新版本请前往 BooBar Release 页面下载 `BooBar.dmg`：
+## Download
+
+Download `BooBar.dmg` from the latest GitHub Release:
 
 <https://github.com/fguby/BooBar/releases/latest>
 
-当前版本：`v1.0.0`
+Current version: `v1.0.0`
 
-安装方式：下载 DMG 后，将 BooBar 拖入「应用程序」即可。
+To install, open the DMG and drag BooBar into Applications.
 
-## 适合谁
+## Who It Is For
 
-- 想让桌面自动保持整洁的人
-- 经常处理下载、截图、文档、图片和临时文件的人
-- 希望在一个入口里查看网页变化、邮件提醒和 GitHub 动态的人
-- 想用自然语言快速找回本机资料的人
-- 希望减少打断、把注意力留给当前工作的 macOS 用户
+- People who want their desktop to stay organized automatically
+- People who often handle downloads, screenshots, documents, images, and temporary files
+- macOS users who want one place for web changes, mail highlights, GitHub activity, and coding status
+- People who want to find local files using natural-language descriptions
+- Anyone who wants fewer context switches while working
 
-## 主要功能
+## Key Features
 
-### 桌面灵动岛
+### Desktop Dynamic Island
 
-BooBar 会在屏幕顶部显示一个轻量的状态入口。下载进度、文件整理、网页变化、邮件提醒、GitHub 事件和编程活动都可以在这里集中查看。需要你关注时自动展开，处理完后自动收起。
+BooBar provides a compact status surface at the top of your screen. Download progress, file organization, web changes, mail highlights, GitHub events, and coding activity can all appear in one focused place. It expands when something needs attention and folds away when the task is done.
 
-### 智能文件整理
+### Smart File Organization
 
-把下载目录、桌面或其他常用文件夹交给 BooBar 后，新文件会被自动识别和整理。高置信度的文件可以自动归档，不确定的内容会进入待确认列表，避免误移动重要文件。
+BooBar can watch Downloads, Desktop, or any folder you choose. New files are identified and organized automatically when confidence is high. Uncertain items go into a review flow so important files are not moved unexpectedly.
 
-### 网页监听
+### Web Change Monitoring
 
-你可以关注网页上的特定区域。当价格、状态、文字或页面内容发生变化时，BooBar 会在灵动岛里提醒你，适合关注订单、公告、库存、任务看板和信息更新。
+Pin a web page or page region and let BooBar notify you when prices, status text, page content, or important UI sections change. It is useful for orders, announcements, inventory, dashboards, and task boards.
 
-### GitHub 动态提醒
+### GitHub Activity
 
-连接 GitHub 后，BooBar 可以展示与你仓库相关的 Issue、Pull Request、Star、Fork 等动态。新的事件会在灵动岛任务区保留，避免你错过重要通知。
+Connect GitHub to see repository activity such as Issues, Pull Requests, Stars, Forks, and other events in BooBar's task surface.
 
-### 邮件代收
+### Mail Highlights
 
-BooBar 可以帮你提炼邮件里的验证码、关键链接、按钮和主要内容，让临时登录、注册验证和重要通知更容易处理。
+BooBar can extract verification codes, important links, buttons, and key message content so login flows and notifications are easier to handle.
 
-### 智能剪贴板
+### Smart Clipboard
 
-复制链接、JSON、SQL、Markdown、邮箱、任务或其他文本时，BooBar 可以自动识别并提供清理、格式化、翻译、提取等快捷操作。
+When you copy links, JSON, SQL, Markdown, email addresses, tasks, or other text, BooBar can recognize the content and offer quick actions such as cleanup, formatting, translation, and extraction.
 
-### 自然语言搜索
+### Natural-Language File Search
 
-用一句话搜索本机整理过的资料。你不需要记住文件名，只要描述内容，就能更快找回文档、截图、图片线索和历史资料。
+Search your organized local materials with a sentence instead of remembering exact filenames. BooBar helps you find documents, screenshots, image clues, and historical context faster.
 
-### 编程活动面板
+### Coding Activity Panel
 
-BooBar 可以把本机编程会话、任务状态和需要确认的操作集中显示在灵动岛里，方便你在工作时快速了解进度。
+BooBar can surface local coding sessions, task status, and actions that need confirmation, helping you keep track of work without constantly switching windows.
 
-## 亮点
+## Highlights
 
-- 一个入口查看桌面上的重要状态
-- 自动整理文件，减少手动归档
-- 网页变化和 GitHub 动态及时提醒
-- 邮件验证码和关键链接快速提取
-- 支持自然语言搜索本机资料
-- 适配 macOS 桌面体验，轻量常驻
+- One calm entry point for important desktop status
+- Automatic file organization with review safeguards
+- Web change and GitHub activity reminders
+- Fast extraction for mail codes and important links
+- Natural-language local file search
+- Lightweight native macOS desktop experience
 
-## 系统要求
+## System Requirements
 
-- macOS 14 或更高版本
+- macOS 14 or later
 
-## 了解更多
+## Learn More
 
-官网：<https://boobar.app>
+Website: <https://boobar.app>
