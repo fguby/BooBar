@@ -14,6 +14,22 @@ Current version: `v1.0.0`
 
 To install, open the DMG and drag BooBar into Applications.
 
+## Product Preview
+
+<img width="784" height="158" alt="BooBar Dynamic Island compact preview" src="https://github.com/user-attachments/assets/fa0f8e18-484c-435a-9b5c-76d2f13139ac" />
+
+<img width="1240" height="556" alt="BooBar task center preview" src="https://github.com/user-attachments/assets/e094f3ca-25d3-466d-8a8e-cd30272dc1cd" />
+
+<img width="1368" height="602" alt="BooBar expanded desktop surface preview" src="https://github.com/user-attachments/assets/26068306-d523-483e-a826-ad7818b87219" />
+
+<img width="1240" height="860" alt="BooBar settings and activity preview" src="https://github.com/user-attachments/assets/e2459707-d58f-4f98-8fc8-05b854e6bea6" />
+
+<img width="1386" height="524" alt="BooBar monitoring preview" src="https://github.com/user-attachments/assets/7a780250-07c9-41db-8856-a6ac03b2af2b" />
+
+<img width="1436" height="488" alt="BooBar workflow preview" src="https://github.com/user-attachments/assets/a82af056-00d2-4777-9b5c-31502c64ab9b" />
+
+<img width="1344" height="950" alt="BooBar browser and web pin preview" src="https://github.com/user-attachments/assets/62ab9337-ba1b-410f-9a88-8774c6ad4afe" />
+
 ## Who It Is For
 
 - People who want their desktop to stay organized automatically
