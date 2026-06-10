@@ -1,6 +1,6 @@
 {
-  "version": "1.0.1",
-  "display_version": "v1.0.1",
+  "version": "1.0.0",
+  "display_version": "v1.0.0",
   "download_url": "https://raw.githubusercontent.com/fguby/BooBar/main/dist/BooBar.dmg",
   "release_url": "https://github.com/fguby/BooBar/releases/download/v1.0.0/BooBar.dmg",
   "sha256": "657a931eea574fa88360b42c17fa509955b29b339d378e05af73faa678f36449",
