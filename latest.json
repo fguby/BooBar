@@ -1,10 +1,10 @@
 {
-  "version": "1.0.0",
-  "display_version": "v1.0.0",
+  "version": "1.0.1",
+  "display_version": "v1.0.1",
   "download_url": "https://raw.githubusercontent.com/fguby/BooBar/main/dist/BooBar.dmg",
-  "release_url": "https://github.com/fguby/BooBar/releases/download/v1.0.0/BooBar.dmg",
-  "sha256": "657a931eea574fa88360b42c17fa509955b29b339d378e05af73faa678f36449",
-  "size": 22842201,
-  "notes": "BooBar 1.0.0 ships as a signed and notarized Developer ID build with embedded provisioning profile support, AI file sorting, Codex and Claude Code monitoring, Chrome enhancement, Web Pin, screenshot notes, smart sticky notes, reminders, and subscription pass support.",
-  "release_notes": "BooBar 1.0.0 introduces the Dynamic Island task center, AI file sorting, Chrome enhancement, Web Pin monitoring, screenshot notes, smart sticky notes, terminal panels, break reminders, and subscription pass support."
+  "release_url": "https://github.com/fguby/BooBar/releases/download/v1.0.1/BooBar.dmg",
+  "sha256": "bbae8a11ec8939a73e45ea6916a509928e1882b7fa8db00ea632de9aab3db753",
+  "size": 23457711,
+  "notes": "BooBar 1.0.1 improves the update flow with a clearer release-notes window, visible download progress, native download monitoring fixes, Now Playing refinements, and a notarized installer.",
+  "release_notes": "BooBar 1.0.1 adds a friendlier update prompt with readable release notes and download progress, improves native download task detection, refines the Dynamic Island music experience, and ships as a signed and notarized Developer ID DMG."
 }

@@ -10,7 +10,7 @@ Download `BooBar.dmg` from the latest GitHub Release:
 
 <https://github.com/fguby/BooBar/releases/latest>
 
-Current version: `v1.0.0`
+Current version: `v1.0.1`
 
 To install, open the DMG and drag BooBar into Applications.
 
