@@ -28,19 +28,17 @@ This is a transformative BooBar update:
 
 ## Product Preview
 
-<img width="784" height="158" alt="BooBar Dynamic Island compact preview" src="https://github.com/user-attachments/assets/fa0f8e18-484c-435a-9b5c-76d2f13139ac" />
+<img width="1330" height="564" alt="image" src="https://github.com/user-attachments/assets/55b9b344-3ee5-4f28-b399-e8eacf1d7a12" />
+<img width="1510" height="700" alt="image" src="https://github.com/user-attachments/assets/1436af09-e7b2-47fa-a639-239be1a7bb97" />
+<img width="1456" height="594" alt="image" src="https://github.com/user-attachments/assets/07b5a508-e3b9-48e7-a1ca-9720ea7e90d8" />
+<img width="1322" height="646" alt="image" src="https://github.com/user-attachments/assets/d83dfb03-21b8-4e55-9f0f-ce0e4f524a0d" />
+<img width="1254" height="428" alt="image" src="https://github.com/user-attachments/assets/56fbec33-5582-4d00-b124-7c1afc3bb0b4" />
+<img width="2206" height="1374" alt="image" src="https://github.com/user-attachments/assets/8b72f702-1267-4a43-bcef-aa0471f3672d" />
+<img width="994" height="842" alt="image" src="https://github.com/user-attachments/assets/7da93b7e-00c9-4edf-bdae-f95b7c3cb46f" />
 
-<img width="1240" height="556" alt="BooBar task center preview" src="https://github.com/user-attachments/assets/e094f3ca-25d3-466d-8a8e-cd30272dc1cd" />
 
-<img width="1368" height="602" alt="BooBar expanded desktop surface preview" src="https://github.com/user-attachments/assets/26068306-d523-483e-a826-ad7818b87219" />
 
-<img width="1240" height="860" alt="BooBar settings and activity preview" src="https://github.com/user-attachments/assets/e2459707-d58f-4f98-8fc8-05b854e6bea6" />
 
-<img width="1386" height="524" alt="BooBar monitoring preview" src="https://github.com/user-attachments/assets/7a780250-07c9-41db-8856-a6ac03b2af2b" />
-
-<img width="1436" height="488" alt="BooBar workflow preview" src="https://github.com/user-attachments/assets/a82af056-00d2-4777-9b5c-31502c64ab9b" />
-
-<img width="1344" height="950" alt="BooBar browser and web pin preview" src="https://github.com/user-attachments/assets/62ab9337-ba1b-410f-9a88-8774c6ad4afe" />
 
 ## Core Features
 
