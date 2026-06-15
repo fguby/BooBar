@@ -1,18 +1,30 @@
 # BooBar
 
-BooBar is a macOS desktop productivity assistant that brings file organization, reminders, web change monitoring, download progress, mail highlights, coding activity, and natural-language search into a lightweight Dynamic Island at the top of your screen.
+BooBar is a native macOS Dynamic Island for your desktop. It turns music, AI tasks, calendar events, todos, sticky notes, downloads, system notifications, terminal status, GitHub activity, and break reminders into one compact surface at the top of your screen.
 
-[Download the latest release](https://github.com/fguby/BooBar/releases/latest) · [Chinese README](README.zh-CN.md)
+> This public repository is used for BooBar downloads, update metadata, release notes, and product documentation. BooBar source code is not open source.
 
-## Download
+[Download BooBar.dmg](https://github.com/fguby/BooBar/releases/latest/download/BooBar.dmg) · [Latest release](https://github.com/fguby/BooBar/releases/latest) · [中文文档](README.zh-CN.md)
 
-Download `BooBar.dmg` from the latest GitHub Release:
+## Current Version
 
-<https://github.com/fguby/BooBar/releases/latest>
+Current version: `v1.1.0`
 
-Current version: `v1.0.1`
+Install BooBar by opening the DMG and dragging BooBar into Applications.
 
-To install, open the DMG and drag BooBar into Applications.
+## What's New in 1.1.0
+
+This is a transformative BooBar update:
+
+1. Completely refined the Dynamic Island shape and expansion animations.
+2. Added the Command Wheel. Press both `⌘` Command keys to try it.
+3. Improved the music card with support for nearly every music player, including Apple Music and Spotify.
+4. Added Calendar and Todo cards.
+5. Added sticky notes with edge docking.
+6. Added the Terminal card.
+7. Added support for more native system event notifications.
+8. Added Boo Break.
+9. More updates are on the way.
 
 ## Product Preview
 
@@ -30,60 +42,78 @@ To install, open the DMG and drag BooBar into Applications.
 
 <img width="1344" height="950" alt="BooBar browser and web pin preview" src="https://github.com/user-attachments/assets/62ab9337-ba1b-410f-9a88-8774c6ad4afe" />
 
-## Who It Is For
+## Core Features
 
-- People who want their desktop to stay organized automatically
-- People who often handle downloads, screenshots, documents, images, and temporary files
-- macOS users who want one place for web changes, mail highlights, GitHub activity, and coding status
-- People who want to find local files using natural-language descriptions
-- Anyone who wants fewer context switches while working
+### Dynamic Island
 
-## Key Features
+BooBar lives at the top of your screen as a compact, native macOS island. It expands when something needs attention, then folds back into a quiet status surface when you are done.
 
-### Desktop Dynamic Island
+It can show music, tasks, calendar events, todos, system activity, native notifications, terminal status, GitHub information, and lightweight computer status without forcing you to switch windows.
 
-BooBar provides a compact status surface at the top of your screen. Download progress, file organization, web changes, mail highlights, GitHub events, and coding activity can all appear in one focused place. It expands when something needs attention and folds away when the task is done.
+### Command Wheel
+
+Press both `⌘` Command keys to open BooBar's wheel button. It gives you fast access to common actions and desktop tools from anywhere on macOS.
+
+### Music Card
+
+BooBar now supports nearly every music player that exposes Now Playing information, including Apple Music and Spotify. The expanded music card shows artwork, playback state, controls, progress, lyrics, and related status in the Dynamic Island.
+
+### Calendar and Todo Cards
+
+The Calendar card shows upcoming events and selected-day details. The Todo card keeps lightweight tasks close to your current workflow, including task status changes and quick review flows.
+
+### Sticky Notes
+
+Create desktop sticky notes and dock them to the screen edge when you want them nearby but out of the way.
+
+### Terminal Card
+
+The Terminal card brings useful computer and terminal-style status into BooBar, including system information and workflow-oriented panels.
+
+### AI and Coding Activity
+
+BooBar can surface Codex and Claude Code activity, task progress, confirmations, file discoveries, and completion states so AI work does not disappear behind other windows.
 
 ### Smart File Organization
 
-BooBar can watch Downloads, Desktop, or any folder you choose. New files are identified and organized automatically when confidence is high. Uncertain items go into a review flow so important files are not moved unexpectedly.
+BooBar can watch Downloads, Desktop, or any folder you choose. New files can be analyzed and organized automatically when confidence is high. Uncertain items are routed into a review flow.
 
-### Web Change Monitoring
+### Web, Downloads, and Native Events
 
-Pin a web page or page region and let BooBar notify you when prices, status text, page content, or important UI sections change. It is useful for orders, announcements, inventory, dashboards, and task boards.
+BooBar can monitor browser downloads, page changes, GitHub activity, and more native macOS events. Important status appears in the island instead of scattering across windows.
 
-### GitHub Activity
+### Boo Break
 
-Connect GitHub to see repository activity such as Issues, Pull Requests, Stars, Forks, and other events in BooBar's task surface.
+Boo Break helps you take short, intentional breaks while working.
 
-### Mail Highlights
+## Installation
 
-BooBar can extract verification codes, important links, buttons, and key message content so login flows and notifications are easier to handle.
+1. Download [BooBar.dmg](https://github.com/fguby/BooBar/releases/latest/download/BooBar.dmg).
+2. Open the DMG.
+3. Drag BooBar into Applications.
+4. Launch BooBar from Applications.
 
-### Smart Clipboard
+If macOS blocks the app on first launch, open **System Settings > Privacy & Security** and allow BooBar to run.
 
-When you copy links, JSON, SQL, Markdown, email addresses, tasks, or other text, BooBar can recognize the content and offer quick actions such as cleanup, formatting, translation, and extraction.
+## Updates
 
-### Natural-Language File Search
+BooBar checks this repository for update metadata:
 
-Search your organized local materials with a sentence instead of remembering exact filenames. BooBar helps you find documents, screenshots, image clues, and historical context faster.
+- `latest.json` stores the current version, release notes, checksum, size, and download URL.
+- `dist/BooBar.dmg` stores the latest public installer.
+- GitHub Releases store versioned release assets.
 
-### Coding Activity Panel
-
-BooBar can surface local coding sessions, task status, and actions that need confirmation, helping you keep track of work without constantly switching windows.
-
-## Highlights
-
-- One calm entry point for important desktop status
-- Automatic file organization with review safeguards
-- Web change and GitHub activity reminders
-- Fast extraction for mail codes and important links
-- Natural-language local file search
-- Lightweight native macOS desktop experience
+Latest release: [v1.1.0](https://github.com/fguby/BooBar/releases/tag/v1.1.0)
 
 ## System Requirements
 
 - macOS 14 or later
+
+## Support
+
+- Report a bug: [GitHub Issues](https://github.com/fguby/BooBar/issues/new?labels=bug)
+- Send feedback: [GitHub Issues](https://github.com/fguby/BooBar/issues/new?labels=feedback)
+- Community: [GitHub Discussions](https://github.com/fguby/BooBar/discussions)
 
 ## Learn More
 
