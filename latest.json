@@ -1,14 +1,14 @@
 {
-  "version": "1.1.0",
-  "display_version": "v1.1.0",
-  "download_url": "https://raw.githubusercontent.com/fguby/BooBar/main/dist/BooBar.dmg",
-  "release_url": "https://github.com/fguby/BooBar/releases/download/v1.1.0/BooBar.dmg",
-  "sha256": "e30524a900147bd8eb7155d3074f7e3a981605bf0d6eaf5fbd8b14744c2517d6",
-  "size": 28892999,
-  "notes": "BooBar 1.1.0 is a transformative update with fully refined Dynamic Island shape and animations, a new Command Wheel, broader music player support, Calendar and Todo cards, sticky notes, Terminal cards, Boo Break, and more.",
-  "notes_en": "BooBar 1.1.0 is a transformative update with fully refined Dynamic Island shape and animations, a new Command Wheel, broader music player support, Calendar and Todo cards, sticky notes, Terminal cards, Boo Break, and more.",
-  "notes_zh": "BooBar 1.1.0 是一次颠覆性的版本更新：全面优化灵动岛形状和动画；新增轮盘按钮；优化音乐卡片；新增日历卡片、待办事项、便利签、Terminal 卡片和 Boo 休息器，并支持更多系统原生事件通知。",
-  "release_notes": "This is a transformative BooBar update:\n\n1. Completely refined the Dynamic Island shape and animations.\n2. Added the Command Wheel. Press both ⌘ (Command) keys to try it.\n3. Improved the music card with support for nearly every music player, including Apple Music and Spotify.\n4. Added Calendar and Todo cards.\n5. Added sticky notes with edge docking.\n6. Added the Terminal card.\n7. Added support for more native system event notifications.\n8. Added Boo Break.\n9. More updates are on the way.",
-  "release_notes_en": "This is a transformative BooBar update:\n\n1. Completely refined the Dynamic Island shape and animations.\n2. Added the Command Wheel. Press both ⌘ (Command) keys to try it.\n3. Improved the music card with support for nearly every music player, including Apple Music and Spotify.\n4. Added Calendar and Todo cards.\n5. Added sticky notes with edge docking.\n6. Added the Terminal card.\n7. Added support for more native system event notifications.\n8. Added Boo Break.\n9. More updates are on the way.",
-  "release_notes_zh": "这是一个颠覆性的版本更新：\n\n1. 灵动岛形状以及动画的全面优化。\n2. 增加了轮盘按钮，请通过按下两个 ⌘（Command）来试试吧。\n3. 优化了音乐卡片，现在支持包括 Apple Music、Spotify 在内的几乎所有音乐播放器。\n4. 增加了日历卡片和待办事项。\n5. 增加了便利签以及贴边功能。\n6. 增加了 Terminal 卡片。\n7. 现在支持更多的系统原生事件通知。\n8. 增加了 Boo 休息器。\n9. 更多的更新正在路上。"
+  "version": "1.1.1",
+  "display_version": "v1.1.1",
+  "download_url": "https://github.com/fguby/BooBar/releases/download/v1.1.1/BooBar.dmg",
+  "release_url": "https://github.com/fguby/BooBar/releases/download/v1.1.1/BooBar.dmg",
+  "sha256": "1fc13c1bdaa3b38041cd7213c535899773f22be1cc20264f0442426a6077650f",
+  "size": 30293166,
+  "notes": "## English\n\n1. Redesigned the user interface.\n2. Fixed an issue with Codex session detection.\n3. Removed redundant features.\n4. Introduced all-new browser extensions and plugins.\n\n## 中文\n\n1. 界面重新设计。\n2. 修复 Codex 会话识别异常的问题。\n3. 删除冗余功能。\n4. 全新的浏览器扩展与插件。\n\n---\n\n**Installation / 安装**\n\nDownload **BooBar.dmg**, open it, and drag **BooBar.app** into **Applications**.\n下载 **BooBar.dmg**，打开后将 **BooBar.app** 拖入 **Applications** 文件夹。\n\n- macOS 14.0 or later / macOS 14.0 及以上。\n- Universal: Apple Silicon and Intel Mac / 通用安装包，支持 Apple Silicon 和 Intel Mac。\n- Developer ID signed and Apple notarized / 已使用 Developer ID 签名并通过 Apple 公证。\n\nSHA-256: `1fc13c1bdaa3b38041cd7213c535899773f22be1cc20264f0442426a6077650f`\nSize: `30293166` bytes\n",
+  "notes_en": "1. Redesigned the user interface.\n2. Fixed an issue with Codex session detection.\n3. Removed redundant features.\n4. Introduced all-new browser extensions and plugins.",
+  "notes_zh": "1. 界面重新设计。\n2. 修复 Codex 会话识别异常的问题。\n3. 删除冗余功能。\n4. 全新的浏览器扩展与插件。",
+  "release_notes": "## English\n\n1. Redesigned the user interface.\n2. Fixed an issue with Codex session detection.\n3. Removed redundant features.\n4. Introduced all-new browser extensions and plugins.\n\n## 中文\n\n1. 界面重新设计。\n2. 修复 Codex 会话识别异常的问题。\n3. 删除冗余功能。\n4. 全新的浏览器扩展与插件。\n\n---\n\n**Installation / 安装**\n\nDownload **BooBar.dmg**, open it, and drag **BooBar.app** into **Applications**.\n下载 **BooBar.dmg**，打开后将 **BooBar.app** 拖入 **Applications** 文件夹。\n\n- macOS 14.0 or later / macOS 14.0 及以上。\n- Universal: Apple Silicon and Intel Mac / 通用安装包，支持 Apple Silicon 和 Intel Mac。\n- Developer ID signed and Apple notarized / 已使用 Developer ID 签名并通过 Apple 公证。\n\nSHA-256: `1fc13c1bdaa3b38041cd7213c535899773f22be1cc20264f0442426a6077650f`\nSize: `30293166` bytes\n",
+  "release_notes_en": "1. Redesigned the user interface.\n2. Fixed an issue with Codex session detection.\n3. Removed redundant features.\n4. Introduced all-new browser extensions and plugins.",
+  "release_notes_zh": "1. 界面重新设计。\n2. 修复 Codex 会话识别异常的问题。\n3. 删除冗余功能。\n4. 全新的浏览器扩展与插件。"
 }
